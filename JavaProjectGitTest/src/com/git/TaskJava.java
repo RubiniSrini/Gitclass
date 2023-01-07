@@ -24,6 +24,11 @@ public class TaskJava {
 	private void test4() {
 		System.out.println("test4");
 	}
-
+private void method() {
+System.out.println("method");
+}
+private void method1() {
+System.out.println("method1");
+}
 
 }
