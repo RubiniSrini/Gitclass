@@ -18,12 +18,19 @@ public class TaskJava {
 		System.out.println("tamil");
 
 	}
-	private void karnataka() {
-		System.out.println("kanada");
+	private void test3() {
+		System.out.println("test3");
 	}
-	private void andhra() {
-		System.out.println("telugu");
+	private void test4() {
+		System.out.println("test4");
 	}
+ private void tc1() {
+	System.out.println("1");
 
+}
+ private void tc2() {
+	System.out.println("2");
+
+}
 
 }
