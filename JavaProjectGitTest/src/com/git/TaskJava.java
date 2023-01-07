@@ -9,11 +9,21 @@ public class TaskJava {
 		
 	
 	}
+
+	private void india() {
+		System.out.println("India");
+	
+	}
+	private void tamilnadu() {
+		System.out.println("tamil");
+
+	}
 	private void test3() {
 		System.out.println("test3");
 	}
 	private void test4() {
-System.out.println("test4");
+		System.out.println("test4");
 	}
+
 
 }
