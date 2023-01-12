@@ -39,7 +39,5 @@ public class TaskJava {
  private void tc2() {
 	System.out.println("2");
  }
- 	private void company() {
- 		System.out.println("company");
-	}
+ 	
 }
